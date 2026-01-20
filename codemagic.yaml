@@ -14,7 +14,7 @@ workflows:
         XCODE_SCHEME: "RainSport"
         APP_STORE_APPLE_ID: 6757008025
         # Жестко задаем новые версии
-        NEW_VERSION: "1.0"  # Укажите нужную версию
+        NEW_VERSION: "1.1"  # Укажите нужную версию
         NEW_BUILD: "1"      # Укажите нужный билд-номер
       xcode: latest
     scripts:
