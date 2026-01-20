@@ -37,6 +37,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+                README.md,
 			);
 			target = 2AC2E6EC2EE8627B00122DE3 /* RainSport */;
 		};
